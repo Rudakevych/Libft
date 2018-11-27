@@ -6,12 +6,12 @@
 /*   By: yrudakev <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2018/10/29 12:01:11 by yrudakev          #+#    #+#             */
-/*   Updated: 2018/11/27 14:46:12 by yrudakev         ###   ########.fr       */
+/*   Updated: 2018/11/27 15:02:54 by yrudakev         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef TEST_LIBFT_LIBFT_H
-# define TEST_LIBFT_LIBFT_H
+#ifndef LIBFT_H
+# define LIBFT_H
 
 # include <string.h>
 # include <stdlib.h>
